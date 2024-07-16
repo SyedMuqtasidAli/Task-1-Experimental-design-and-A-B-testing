@@ -26,7 +26,7 @@ To get started with the A/B Test Design and Analysis project, follow these steps
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/ab-test-design-analysis.git
+    git clone https://github.com/syed-muqtasid-ali/ab-test-design-analysis.git
     ```
 
 2. **Navigate to the project directory**:
